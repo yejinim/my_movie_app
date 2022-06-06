@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/yejinim/my_movie_app/static/css/main.d9db0871.css",
+    "main.js": "/yejinim/my_movie_app/static/js/main.ffcd1db0.js",
+    "index.html": "/yejinim/my_movie_app/index.html",
+    "main.d9db0871.css.map": "/yejinim/my_movie_app/static/css/main.d9db0871.css.map",
+    "main.ffcd1db0.js.map": "/yejinim/my_movie_app/static/js/main.ffcd1db0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9db0871.css",
+    "static/js/main.ffcd1db0.js"
+  ]
+}
